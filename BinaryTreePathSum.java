@@ -39,4 +39,15 @@ public class BinaryTreePathSum {
         return result;
        
     }
+    //    List<List<Integer>> list = new ArrayList<List<Integer>>();
+//    or since Java 1.7
+//
+//    List<List<Integer>> list = new ArrayList<>();
+    
+    //what after new must be a class, cannot be an interface,
+    // what inside <> must be a type or an Interface
+    // you can cast a class to one of the interfaces it implements but
+    // not the other way,
+    
+    // ArrayList<ArrayList<Integer>> cannot be converted to List<List<Integer>>
 }
