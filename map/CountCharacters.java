@@ -1,6 +1,6 @@
 //557. Count Characters
 
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.map;
 
 import java.util.HashMap;
 import java.util.Map;
