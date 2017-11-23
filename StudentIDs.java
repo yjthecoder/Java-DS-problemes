@@ -26,7 +26,7 @@ public class StudentIDs {
         
         //constructor's job is to initialize uninitilized fields of the class
         students  = new Student[n]; //every Student obj is null, but students is NOT null it is object of nulls
-                                    //but an object contain n null objects
+                                    // an object contain n null objects
         for (int i = 0; i < n; i++) {
             students[i] = new Student(i); //Note: there is no . on the null obj, so not exception thrown
         }
