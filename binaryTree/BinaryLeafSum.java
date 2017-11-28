@@ -1,4 +1,5 @@
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.binaryTree;
+
 // Binary Tree Leaf Sum
 public class BinaryLeafSum {
     

@@ -1,4 +1,4 @@
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.binaryTree;
 //nsert Node in a Binary Search Tre
 public class InsertNodeInBST {
     private TreeNode oldRoot;

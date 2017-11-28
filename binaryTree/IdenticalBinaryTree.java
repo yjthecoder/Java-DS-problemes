@@ -1,4 +1,4 @@
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.binaryTree;
 
 //Identical Binary Tree
 public class IdenticalBinaryTree {

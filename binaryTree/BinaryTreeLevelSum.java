@@ -1,4 +1,4 @@
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.binaryTree;
 
 public class BinaryTreeLevelSum {
     public int levelSum(TreeNode root, int level) {

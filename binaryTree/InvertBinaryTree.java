@@ -1,4 +1,4 @@
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.binaryTree;
 //Invert Binary Tree
 public class InvertBinaryTree {
     public void invertBinaryTree(TreeNode root) {

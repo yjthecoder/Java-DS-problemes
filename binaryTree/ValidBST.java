@@ -1,4 +1,4 @@
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.binaryTree;
 //Validate Binary Search Tree
 
 /**
