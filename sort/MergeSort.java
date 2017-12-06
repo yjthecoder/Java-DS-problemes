@@ -156,6 +156,7 @@ public class MergeSort {
     //////////////////////
     //////////////////////
     //3rd Way, withouth passing temp, but create one every time calling merge()
+    //this cause MLE (memory limit exceeded), because it create so many arrays as the recursion gets deeper
     
     
     public void sortIntegers1(int[] A) {
@@ -204,8 +205,14 @@ public class MergeSort {
         }
     }
     
-    
-    ////3rd way, if there is no requirement for space used, this is easier to understand
+    //////////////////////
+    //////////////////////
+    //////////////////////
+    //////////////////////
+    //////////////////////
+    //////////////////////
+    //////////////////////
+    //4th way, if there is no requirement for space used, this is easier to understand
     public Integer[] sort(Integer[] targetArray){
 
         if(targetArray.length == 1){
