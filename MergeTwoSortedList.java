@@ -1,4 +1,5 @@
 package jiuzhang.java.elementary;
+
 // Merge Two Sorted Lists
 public class MergeTwoSortedList {
 

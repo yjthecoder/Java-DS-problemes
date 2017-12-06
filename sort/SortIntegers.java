@@ -1,5 +1,5 @@
 //463. Sort Integers
-package jiuzhang.java.elementary;
+package jiuzhang.java.elementary.sort;
 
 public class SortIntegers {
 

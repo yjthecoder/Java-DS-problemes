@@ -13,7 +13,7 @@ public class ConvertSortedArraytoBinarySearchTreeWithMinimalHeight {
         }
         TreeNode root = new TreeNode(-1);
         
-        helper(root, A, 0, A.length - 1);
+        helper0(root, A, 0, A.length - 1);
         
         return root;
     }
