@@ -2,6 +2,8 @@ package jiuzhang.java.elementary.sort;
 //173. Insertion Sort List
 //Sort a linked list using insertion sort.
 
+import jiuzhang.java.elementary.ListNode;
+
 public class InsertionSortList {
     
     //fist try

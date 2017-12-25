@@ -87,5 +87,5 @@ public class MergeIntervals {
     
     //Sorted stuff usually easier to manipulate, always keep in mind, it is already in order
     
-    
+    }  
 }
